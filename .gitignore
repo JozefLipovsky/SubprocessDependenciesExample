@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Xcode
+.build/
+xcuserdata/
+xcshareddata/
+DerivedData/
+*.xcarchive/
+
+# SPM
+.swiftpm
+*/Packages
+Package.pins
+Package.resolved
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Generated Files
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Other
+.netrc
+
+# ProjectTools symlink
+project
